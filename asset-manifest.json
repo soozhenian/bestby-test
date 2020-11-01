@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bestby-test/static/css/main.75082938.chunk.css",
+    "main.js": "/bestby-test/static/js/main.8124e3ee.chunk.js",
+    "main.js.map": "/bestby-test/static/js/main.8124e3ee.chunk.js.map",
+    "runtime-main.js": "/bestby-test/static/js/runtime-main.34d0070f.js",
+    "runtime-main.js.map": "/bestby-test/static/js/runtime-main.34d0070f.js.map",
+    "static/js/2.6b6aad5d.chunk.js": "/bestby-test/static/js/2.6b6aad5d.chunk.js",
+    "static/js/2.6b6aad5d.chunk.js.map": "/bestby-test/static/js/2.6b6aad5d.chunk.js.map",
+    "index.html": "/bestby-test/index.html",
+    "precache-manifest.94ceda746b01d281f1c5bca3b41b565e.js": "/bestby-test/precache-manifest.94ceda746b01d281f1c5bca3b41b565e.js",
+    "service-worker.js": "/bestby-test/service-worker.js",
+    "static/css/main.75082938.chunk.css.map": "/bestby-test/static/css/main.75082938.chunk.css.map",
+    "static/js/2.6b6aad5d.chunk.js.LICENSE.txt": "/bestby-test/static/js/2.6b6aad5d.chunk.js.LICENSE.txt",
+    "static/media/hire.svg": "/bestby-test/static/media/hire.b889583a.svg",
+    "static/media/man-suitcase.jpg": "/bestby-test/static/media/man-suitcase.6bc795d9.jpg",
+    "static/media/profile.svg": "/bestby-test/static/media/profile.5e3e549f.svg",
+    "static/media/svg-1.svg": "/bestby-test/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/bestby-test/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/bestby-test/static/media/svg-3.397c455a.svg",
+    "static/media/swipe.svg": "/bestby-test/static/media/swipe.0519cb26.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34d0070f.js",
+    "static/js/2.6b6aad5d.chunk.js",
+    "static/css/main.75082938.chunk.css",
+    "static/js/main.8124e3ee.chunk.js"
+  ]
+}
