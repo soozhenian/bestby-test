@@ -7,8 +7,6 @@ import SignUp from './pages/SignUp/SignUp';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import ScrollToTop from './components/ScrollToTop';
 import { Navbar, Footer } from './components';
-import Doc from './DocService';
-import PdfContainer from './PdfContainer';
 
 function App(){
     return (
@@ -16,6 +14,7 @@ function App(){
       <GlobalStyle />
       <ScrollToTop />
       <Navbar />
+      <Home />
       <Switch>
         <Route path='/' exact component={Home} />
         <Route path='/services' component={Services} />
